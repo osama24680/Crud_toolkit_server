@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "price": "52.6",
+      "description": "The novel was inspired by a youthful romance Fitzgerald had with socialite Ginevra King, and the riotous parties he attended on Long Island's North Shore in 1922. Following a move to the French Riviera, Fitzgerald completed a rough draft of the novel in 1924. He submitted it to editor Maxwell Perkins, who persuaded Fitzgerald to revise the work over the following winter. After making revisions, Fitzgerald was satisfied with the text, but remained ambivalent about the book's title and considered several alternatives. Painter Francis Cugat's cover art greatly impressed Fitzgerald, and he incorporated aspects of it into the novel.",
+      "userName": "Osama Megahed",
+      "id": 1
+    },
+    {
+      "title": "Beloved ",
+      "price": "42.9",
+      "description": "\nSethe, its protagonist, was born a slave and escaped to Ohio, but eighteen years later she is still not free. She has too many memories of Sweet Home, the beautiful farm where so many hideous things happened. And Sethe’s new home is haunted by the ghost of her baby, who died nameless and whose tombstone is engraved with a single word: Beloved. Filled with bitter poetry and suspense as taut as a rope, Beloved is a towering achievement.",
+      "userName": "Osama Megahed",
+      "id": 2
+    },
+    {
+      "title": "Pride and Prejudice",
+      "price": "69.5",
+      "description": "A romantic novel by Jane Austen, published anonymously in three volumes in 1813. A classic of English literature, written with incisive wit and superb character delineation, it centres on the burgeoning relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. Upon publication, Pride and Prejudice was well received by critics and readers. The first edition sold out within the first year, and it never went out of print.",
+      "userName": "Osama Megahed",
+      "id": 3
+    },
+    {
+      "title": "Invisible Man",
+      "price": "77.4",
+      "description": "He describes growing up in a Black community in the South, attending a Negro college from which he is expelled, moving to New York and becoming the chief spokesman of the Harlem branch of \"the Brotherhood,\" before retreating amid violence and confusion.",
+      "userName": "Osama Megahed",
+      "id": 4
+    }
+  ]
+}
